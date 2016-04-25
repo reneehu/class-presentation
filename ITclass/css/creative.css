@@ -202,6 +202,7 @@ header .header-content .header-content-inner h1 {
 
 header .header-content .header-content-inner hr {
     margin: 30px auto;
+    max-width: 700px;
 }
 
 header .header-content .header-content-inner p {
