@@ -183,7 +183,7 @@ header {
     text-align: center;
     color: #fff;
     background-image: url(../img/header.jpg);
-    background-position: top center;
+    background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
