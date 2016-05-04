@@ -1,3 +1,4 @@
 # class-presentation
 just some html/css for presentation
-downlaoded from boostrap template
+
+# mainly boostrap and some inline styles for quick turnaround
